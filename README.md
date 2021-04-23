@@ -1,7 +1,12 @@
-- 👋 Bem vindo !
-- Escolha seu bonus 
+- Olá!
+- Seja bem vindo !
+
+- Selecione uma opção :
+
+
 
 <!---
 marcelooyakawa/marcelooyakawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
